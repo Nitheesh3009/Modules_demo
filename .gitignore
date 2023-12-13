@@ -1,0 +1,6 @@
+# Ignore all files with the specified name.
+# Scoped to the 'logs' subfolder and all folders beneath it.
+/Services/**/.terraform.lock.hcl
+/Services/**/terraform.tfstate
+/Services/**/terraform.tfstate.backup
+/Services/**/.terraform
